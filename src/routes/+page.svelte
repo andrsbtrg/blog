@@ -1,5 +1,9 @@
-<div style="margin: 5ch; line-height: 1.5;">
+<div >
     
-    <h1>blog</h1>
+    <h1>home</h1>
+
+    <p>
+        Welcome!
+    </p>
 
 </div>

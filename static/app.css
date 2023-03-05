@@ -4,6 +4,11 @@ body {
 	color: #222;
 }
 
+div {
+	line-height: 1.5;
+	margin: 2ch;
+}
+
 h1,
 h2,
 h3,
@@ -14,16 +19,7 @@ h6 {
 	font-variant-numeric: tabular-nums;
 }
 
-nav {
-	position: relative;
-	display: flex;
-	gap: 1em;
-	padding: 1em;
-	background-color: #ffeedd;
-	z-index: 2;
-	margin: 0 0 1em 0;
-	border-radius: 2px;
-}
+
 nav.bottomBar {
 	background-color: transparent;
 	position: fixed;
@@ -32,6 +28,13 @@ nav.bottomBar {
     left: 0;
     width: 100%;
 	margin: 0
+}
+a {
+	size: 8;
+	text-overflow: clip;
+	word-wrap: normal;
+	text-align: center;
+
 }
 button.nav {
 	background-color: transparent;
