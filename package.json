@@ -25,6 +25,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"bootstrap-icons": "^1.10.3"
+		"bootstrap-icons": "^1.10.3",
+		"rehype-autolink-headings": "^6.1.1",
+		"rehype-slug": "^5.1.0"
 	}
 }
