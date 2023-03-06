@@ -6,9 +6,9 @@
 - Rust
 - C# (BIM)
 
-```rs
-fn main() {
-    println!("hello world!")
+```js
+function main() {
+    print("hello world!")
 }
 
 ```

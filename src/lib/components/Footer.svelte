@@ -46,7 +46,6 @@
         /* display: block; */
     }
     footer {
-        position: absolute;
         bottom: 0;
         left: 0;
     }
@@ -56,4 +55,3 @@
         font-size: small;
     }
 </style>
-
