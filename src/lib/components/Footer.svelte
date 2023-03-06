@@ -33,27 +33,27 @@
 </footer>
 
 <style>
-nav{
-    display: flex;
-	gap: 1em;
-    margin-left: 1rem;
-    margin-bottom: 2ch;
-    background-color: transparent;
-    /* position: relative; */
-    z-index: 100; 
-    width: 100%;
-    margin-top: 1rem;
-    /* display: block; */
-    
-}
-footer{
-    position:absolute;
-    bottom: 0; 
-    left: 0;
-}
-p {
-    line-height: normal;
-    margin:0;
-    font-size: small;
-}
+    nav {
+        display: flex;
+        gap: 1em;
+        margin-left: 1rem;
+        margin-bottom: 2ch;
+        background-color: transparent;
+        /* position: relative; */
+        z-index: 100;
+        width: 100%;
+        margin-top: 1rem;
+        /* display: block; */
+    }
+    footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+    p {
+        line-height: normal;
+        margin: 0;
+        font-size: small;
+    }
 </style>
+
