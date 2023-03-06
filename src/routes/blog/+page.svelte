@@ -9,16 +9,21 @@
 	<title>Blog</title>
 </svelte:head>
 
-<h1>Blog</h1>
-<ul>
-	{#each data.posts as post}
-		<li>
-			<h2>
-				<a href={post.path}>
-					{post.meta.title}
-				</a>
-			</h2>
-			Published {post.meta.date}
-		</li>
-	{/each}
-</ul>
+{#each data.posts as post}
+	<h1>
+		<a href={post.path}>
+			{post.meta.title}
+		</a>
+	</h1>
+	Published {post.meta.date}
+{/each}
+
+<style>
+	a {
+		text-decoration: none;
+	}
+	hr {
+		margin-left: -1rem;
+		margin-right: -1rem;
+	}
+</style>

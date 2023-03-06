@@ -23,10 +23,4 @@
 		solutions for the new complexities that the world demands of new
 		building projects.
 	</p>
-	<div>
-		<p>things I do:</p>
-		<li>A</li>
-		<li>A</li>
-		<li>A</li>
-	</div>
 </div>

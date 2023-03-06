@@ -8,16 +8,20 @@
 </header>
 
 <style>
+	header {
+		width: 100%;
+	}
 	nav {
 		width: 100%;
 		position: relative;
 		/* width: min-content; */
-		height: min-content;
+		height: auto;
 		display: flex;
 		gap: 0.5em;
-		padding: 1em;
+
+		padding: 20px;
 		z-index: 2;
-		margin: 0 0 1em 0;
+
 		/* border-radius: 10px; */
 		background-color: #1c1c1c;
 	}
