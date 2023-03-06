@@ -1,9 +1,10 @@
-<script>
-</script>
+<svelte:head>
+	<title>About - Andres Buitrago</title>
+</svelte:head>
 
-<div >
+<div>
 	<div
-	style="width:100px; height:100px; border-radius:50px; background-color:white"
+		style="width:100px; height:100px; border-radius:50px; background-color:white"
 	/>
 	<h1>About me</h1>
 	<p>
@@ -29,4 +30,3 @@
 		<li>A</li>
 	</div>
 </div>
-
