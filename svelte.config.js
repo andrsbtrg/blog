@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-autonp';
 import { mdsvex } from 'mdsvex'
 import sveltePreprocess from 'svelte-preprocess'
 import rehypeSlug from 'rehype-slug'
