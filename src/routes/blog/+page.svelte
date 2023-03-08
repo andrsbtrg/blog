@@ -22,8 +22,4 @@
 	a {
 		text-decoration: none;
 	}
-	hr {
-		margin-left: -1rem;
-		margin-right: -1rem;
-	}
 </style>
