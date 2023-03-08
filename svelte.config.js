@@ -19,7 +19,10 @@ const config = {
 			rehypeAutolinkHeadings,
 			]
 		})
-	]
+	],
+	paths: {
+		base: '/blog'
+	}
 };
 
 export default config;
