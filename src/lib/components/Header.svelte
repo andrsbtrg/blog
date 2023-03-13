@@ -3,13 +3,14 @@
 		<a href="/">home</a>
 		<a href="/about">about</a>
 		<a href="/blog">blog</a>
-		<a href="/development">development</a>
 	</nav>
 </header>
 
 <style>
 	header {
 		width: 100%;
+		margin-bottom: 20px;
+
 	}
 	nav {
 		width: 100%;

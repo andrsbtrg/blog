@@ -2,10 +2,7 @@
 	<title>About - Andres Buitrago</title>
 </svelte:head>
 
-<div>
-	<div
-		style="width:100px; height:100px; border-radius:50px; background-color:white"
-	/>
+
 	<h1>About me</h1>
 	<p>
 		While studying Bachelor of Architecture at Universidad de Los
@@ -23,4 +20,3 @@
 		solutions for the new complexities that the world demands of new
 		building projects.
 	</p>
-</div>

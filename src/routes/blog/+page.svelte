@@ -15,11 +15,14 @@
 			{post.meta.title}
 		</a>
 	</h1>
-	Published {post.meta.date}
+	<p>
+		Published: {post.meta.date}
+	</p>
 {/each}
 
 <style>
 	a {
 		text-decoration: none;
+		line-height: 1.5;
 	}
 </style>
