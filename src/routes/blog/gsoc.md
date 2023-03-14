@@ -18,7 +18,7 @@ I have never actually contributed before to an open source project, and GSoC see
 - create a schedule and 
 - create a log of their work. 
 
-I think this is neat because I normally wouldn't be this organized for my *personal* projects (coworkers can understand this, yet those who know me personally know even more what I mean).
+I think this is neat because the personal experience of being part of something bigger on a project with experienced open source developers.
 
 ## how did we got here?
 After doing some research on the open source organizations and projects for this year, I discovered that IfcOpenShell, the community behind BlenderBIM and many others, is participating since the last years.
